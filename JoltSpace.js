@@ -2,7 +2,7 @@
 // @name         JoltSpace
 // @description  Customize GameJolt profiles like SpaceHey/MySpace.
 // @author       Stormwindsky
-// @license      CC0-1.0
+// @license      MIT-0
 // @match        https://gamejolt.com/*
 // @run-at       document-idle
 // @grant        none
@@ -12,7 +12,7 @@
 /*
   JoltSpace - A profile customizer for GameJolt.
   Created by Stormwindsky.
-  This work is marked with CC0 1.0 Universal.
+  This work is marked with MIT-0 Universal.
   Repository: https://github.com/Stormwindsky/JoltSpace
 */
 
